@@ -17,4 +17,5 @@ module.exports = {
     'plugin:vue/essential',
     '@vue/standard'
   ]
+
 }
